@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.6b021333.js",
+    "main.js": "/static/js/main.cfe591be.js",
     "static/js/787.fca74943.chunk.js": "/static/js/787.fca74943.chunk.js",
     "static/media/cute-pumpkin.jpg": "/static/media/cute-pumpkin.e094a14d6061ff52a177.jpg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.6b021333.js.map": "/static/js/main.6b021333.js.map",
+    "main.cfe591be.js.map": "/static/js/main.cfe591be.js.map",
     "787.fca74943.chunk.js.map": "/static/js/787.fca74943.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6b021333.js"
+    "static/js/main.cfe591be.js"
   ]
 }
